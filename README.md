@@ -11,7 +11,7 @@ A Strategic Board game.
 The basic tic tac toe concept upgraded to multiple users and a new board design. Game conceptualized and developed by NKDevelopers and SKTdevelopers.
 
 Trailer
-![](https://www.youtube.com/embed/xZ0-vXJV6Gg)
+![(https://www.youtube.com/embed/xZ0-vXJV6Gg)](https://www.youtube.com/embed/xZ0-vXJV6Gg)
 
 ## Unstoppable
 <img src = "https://lh3.googleusercontent.com/vEpjQe9vH_srK84C4wVpYjmR8k7EOhO3w46uhlpaFIAsebGwI7gbK-HhpHRHEK8PiA" class="center" height="200px" width="200px">
