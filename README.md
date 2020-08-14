@@ -4,7 +4,7 @@ This is the repository consisting of games developed in unity3d using javascript
 # List of Games
 
 ## Hex Block
-<img src = "https://github.com/nirav1997/UNITY3D_GAMES/blob/master/Hex%20Block/Assets/Logo/IMG_4372%20(1).PNG" class="center">
+<img src = "https://github.com/nirav1997/UNITY3D_GAMES/blob/master/Hex%20Block/Assets/Logo/IMG_4372%20(1).PNG" class="center" height="20px" width="20px">
 </img>
 A Game To Really Improve Your Concentration And Your Mind Skills.
 
