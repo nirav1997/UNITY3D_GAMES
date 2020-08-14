@@ -12,6 +12,16 @@ The basic tic tac toe concept upgraded to multiple users and a new board design.
 
 ### Trailer :- https://www.youtube.com/embed/xZ0-vXJV6Gg
 
+## The Swipper
+<img src = "https://lh3.googleusercontent.com/uyryyUwNkTHVhdW0_ff9YCgOnDRoapckcRdiHJ-EjkbGwoJUJ7_wNYVtBIqMSBjasHB1" class="center" height="200px" width="200px">
+</img>
+A Classic fun and concentration building game
+A game which will improve your concentration as well as it will be a fun discovering different levels and trying to achive medals by fullfilling goals.
+
+In this game you have to swipe through bars coming down and just see it doesn't collide with it and also be carefull about the side bars,u may end up your game by colliding with them too.You earn swipos by swiping nearer to the downcoming bars and by those you may purchase FREEZEQUAKE and SPEEDUP which will help you to overcome bars in the game.
+
+COME DISCOVER A WHOLE NEW EXPERIENCE BY DEVELOPING YOUR MIND SKILLS AND HAVING FUNNN............
+
 ## Unstoppable
 <img src = "https://lh3.googleusercontent.com/vEpjQe9vH_srK84C4wVpYjmR8k7EOhO3w46uhlpaFIAsebGwI7gbK-HhpHRHEK8PiA" class="center" height="200px" width="200px">
 </img>
