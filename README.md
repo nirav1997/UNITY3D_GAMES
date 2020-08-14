@@ -42,4 +42,11 @@ Just Try It And Share Your Experience.
 A short sweet game for time pass
 A Normal Ball Game ,just you have to avoid ball from falling.
 
+## Exit
+<img src = "https://lh3.googleusercontent.com/Y0-t_BABtp-UYU_fMflynAQDOSR3fmnFT8lGGs3pcptMK6XYeGaUUERCdtqYg2K3DDSb" height="200px" width="200px">
+</img>
+A beautiful game of passing through without touching.
+In this game u have to use your finger to pick up the ball and make it pass through obstacle and reach finish line.
+if you complete it you get a new combination with a +1 score and so on.So now compete with others and see who's the best......
+
 
