@@ -4,7 +4,7 @@ This is the repository consisting of games developed in unity3d using javascript
 # List of Games
 
 ## Unfallable
-<img align="center" src = "https://lh3.googleusercontent.com/vEpjQe9vH_srK84C4wVpYjmR8k7EOhO3w46uhlpaFIAsebGwI7gbK-HhpHRHEK8PiA">
+<img align="center" src = "https://lh3.googleusercontent.com/vEpjQe9vH_srK84C4wVpYjmR8k7EOhO3w46uhlpaFIAsebGwI7gbK-HhpHRHEK8PiA" class="center">
 </img>
 A Game To Really Improve Your Concentration And Your Mind Skills.
 
