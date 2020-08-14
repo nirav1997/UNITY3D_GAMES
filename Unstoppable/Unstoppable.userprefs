@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-UnityScript.unityproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Color1.js">
+    <Files>
+      <File FileName="Assets\Scripts\Ball.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Color1.js" Line="34" Column="2" />
+      <File FileName="Assets\Scripts\GameScripts.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Horizontal.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Vertical.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameSelect.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameOn.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Oncollisioncolor.js" Line="16" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
