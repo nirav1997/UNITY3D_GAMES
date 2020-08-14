@@ -49,4 +49,9 @@ A beautiful game of passing through without touching.
 In this game u have to use your finger to pick up the ball and make it pass through obstacle and reach finish line.
 if you complete it you get a new combination with a +1 score and so on.So now compete with others and see who's the best......
 
+## EXrink
+
+A similar concept game, not released on playstore. It was made for my own fun. There was a pair of bars which are stuck to each other and game is an infinite run. When any obstacle comes you have to press to seperate the bars making sure you don't touch anything. As soon as you release the bars come togather once again.
+
+
 
